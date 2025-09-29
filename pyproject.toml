@@ -1,0 +1,9 @@
+[project]
+name = "llada"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "gradio>=5.47.2",
+    "torch>=2.8.0",
+    "transformers==4.38.2",
+]
